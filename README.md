@@ -7,6 +7,7 @@ A web application that allows users to view, filter, and sort financial data for
 
 ## Features
 - Displays income statement data for Apple Inc.
+- Added two different modes to the webpage( Dark and Light modes).
 - Filter options:
   - Date range
   - Revenue range
